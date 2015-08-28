@@ -33,9 +33,9 @@ Detail component specific terminology (if applicable)
 <p>Steps for assessing the symptoms, gathering data points and diagnosing the
 potential causes for the Alert.</p>
 
-<code><pre>
+<code>
 Command line
-</pre></code>
+</code>
 
 <p>More text.</p>
             </td>
