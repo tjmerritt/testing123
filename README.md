@@ -85,3 +85,23 @@ More fun with tables:
 |:-----|------:|
 |Val1a | Val2a |
 |Val1b | Val2b |
+
+Ok, lets try an HTML table
+
+
+<table>
+    <thead>
+        <th>Col1</th>
+        <th>Col2</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Val1a</td>
+            <td>Val2a</td>
+        </tr>
+        <tr>
+            <td>Val1b</td>
+            <td>Val2b</td>
+        </tr>
+    </tbody>
+</table>
