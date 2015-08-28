@@ -105,17 +105,21 @@ Ok, lets try an HTML table
     </tbody>
 </table>
 
-Ok, How about a mixed table
+Ok, Let go with an HTML table with more formatting.
 
-|Col1  | Col2  |
-|:-----|------:|
-<tbody>
-    <tr>
-        <td>Val1a</td>
-        <td>Val2a</td>
-    </tr>
-    <tr>
-        <td>Val1b</td>
-        <td>Val2b</td>
-    </tr>
-</tbody>
+<table>
+    <thead>
+        <th align="left">Col1</th>
+        <th align="right">Col2</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Val1a</td>
+            <td>Val2a</td>
+        </tr>
+        <tr>
+            <td>Val1b</td>
+            <td>Val2b asdfasdf</td>
+        </tr>
+    </tbody>
+</table>
