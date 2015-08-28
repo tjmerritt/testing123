@@ -37,7 +37,7 @@ potential causes for the Alert.</p>
 Command line
 </code>
 
-<p>More text.</p>
+<br /><p>More text.</p>
             </td>
             <td>Recovery Steps</td>
         </tr>
