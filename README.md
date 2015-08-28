@@ -115,10 +115,10 @@ Ok, Let go with an HTML table with more formatting.
     <tbody>
         <tr>
             <td>Val1a</td>
-            <td>Val2a</td>
+            <td align="right">Val2a</td>
         </tr>
         <tr>
-            <td align="right">Val1b</td>
+            <td>Val1b</td>
             <td align="right">Val2b asdfasdf</td>
         </tr>
     </tbody>
