@@ -46,7 +46,7 @@ This is **Bold Text.**
 This is _Italic_ **Bold** **_Text._**
 
 * Item 1
-* Item 2
+* Item 2  (Looks like we have a github formatting error here.)
 * Item 3
 
 1. Item 1
@@ -77,6 +77,11 @@ Col1  | Col2
 Val1a | Val2a
 Val1b | Val2b
 
+We can also use limited HTML formating as show <b>here</b>.
 
+More fun with tables:
 
-
+|Col1  | Col2  |
+|:-----|------:|
+|Val1a | Val2a |
+|Val1b | Val2b |
