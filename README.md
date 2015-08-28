@@ -88,7 +88,6 @@ More fun with tables:
 
 Ok, lets try an HTML table
 
-
 <table>
     <thead>
         <th>Col1</th>
@@ -105,3 +104,16 @@ Ok, lets try an HTML table
         </tr>
     </tbody>
 </table>
+
+Ok, How about a mixed table
+
+|Col1  | Col2  |
+|:-----|------:|
+<tr>
+    <td>Val1a</td>
+    <td>Val2a</td>
+</tr>
+<tr>
+    <td>Val1b</td>
+    <td>Val2b</td>
+</tr>
