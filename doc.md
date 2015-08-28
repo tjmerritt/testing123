@@ -30,14 +30,14 @@ Detail component specific terminology (if applicable)
             <td>nagios</td>
             <td>severity</td>
             <td>
-Steps for assessing the symptoms, gathering data points and diagnosing the
-potential causes for the Alert. 
+<p>Steps for assessing the symptoms, gathering data points and diagnosing the
+potential causes for the Alert.</p>
 
 <code><pre>
 Command line
 </pre></code>
 
-More text.
+<p>More text.</p>
             </td>
             <td>Recovery Steps</td>
         </tr>
