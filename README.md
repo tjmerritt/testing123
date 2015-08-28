@@ -118,8 +118,8 @@ Ok, Let go with an HTML table with more formatting.
             <td>Val2a</td>
         </tr>
         <tr>
-            <td>Val1b</td>
-            <td>Val2b asdfasdf</td>
+            <td align="right">Val1b</td>
+            <td align="right">Val2b asdfasdf</td>
         </tr>
     </tbody>
 </table>
