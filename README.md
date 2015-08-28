@@ -109,11 +109,13 @@ Ok, How about a mixed table
 
 |Col1  | Col2  |
 |:-----|------:|
-<tr>
-    <td>Val1a</td>
-    <td>Val2a</td>
-</tr>
-<tr>
-    <td>Val1b</td>
-    <td>Val2b</td>
-</tr>
+<tbody>
+    <tr>
+        <td>Val1a</td>
+        <td>Val2a</td>
+    </tr>
+    <tr>
+        <td>Val1b</td>
+        <td>Val2b</td>
+    </tr>
+</tbody>
