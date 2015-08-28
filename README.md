@@ -53,7 +53,7 @@ This is _Italic_ **Bold** **_Text._**
 2. Item 2
 3. Item 3
 
-Quoted test with special characters in it: `This has **magic** _stuff_ in it`
+Quoted text with special characters in it: `This has **magic** _stuff_ in it`
 
 ```
 So does _this_ block of **stuff**.
@@ -61,7 +61,7 @@ So does _this_ block of **stuff**.
 
 GITHUB!  [Visit GitHub!](http://www.github.com).
 
-URL autolinking is demonstrated by the by the url http://www.github.com/ is handled.
+URL autolinking is demonstrated by how the url http://www.github.com/ is handled.
 
 We also have ~~strikethrough~~.
 
@@ -73,7 +73,7 @@ for h in hosts{1..3}; do echo $h; done
 ## This is a table:
 
 Col1  | Col2
---------------
+------|-------
 Val1a | Val2a
 Val1b | Val2b
 
